@@ -1,16 +1,43 @@
 # Real-Estate-Data-Analysis-using-PCA
-This project focuses on analyzing real estate data and implementing Principal Component Analysis (PCA) for dimensionality reduction. The dataset contains 35 numerical features, which were reduced to 5 principal components while retaining most of the variance and critical information.
+This project demonstrates the use of Principal Component Analysis (PCA) to analyze and reduce the dimensionality of real estate data. By reducing 35 numerical features to 5 principal components, the project retains most of the variance while simplifying the data for better insights and predictive modeling.
 
 # Abstract:
 A key challenge for property sellers is to determine the sale price of the property. The ability to predict the exact property value is beneficial for property investors as well as for buyers to plan their finances according to the price trend. The property prices depend on the number of features like the property area, basement square footage, year built, number of bedrooms, and others. The prices can be predicted more accurately if the number of predictors is less. Several dimension reduction techniques are being applied to decrease this number of predictors.
-
+Determining accurate property sale prices is a major challenge for property sellers, buyers, and investors. Property prices depend on various factors, such as area, square footage, number of bedrooms, and year built. Reducing the number of predictors through dimensionality reduction techniques like PCA helps improve prediction accuracy and interpretability. This project applies PCA to a dataset containing 79 features describing residential homes in Ames, Iowa.
  
 # Problem Statement:
-Read the youtube data and perform exploratory data analysis.
+Perform exploratory data analysis on real estate data and implement Principal Component Analysis (PCA) for dimensionality reduction.
 
 # Dataset Information:
-With 79 explanatory this dataset describes (almost) every aspect of residential homes in Ames, Iowa
+Dataset Information
 
+The dataset describes nearly every aspect of residential homes in Ames, Iowa, using 79 explanatory variables. These variables include features such as property type, location, building condition, and sale details.
+
+Key Features
+
+Input Variables:
+
+MSSubClass: Identifies the type of dwelling involved in the sale.
+
+Examples: 1-Story, 2-Story, Duplex, etc.
+
+MSZoning: General zoning classification of the sale.
+
+Examples: Residential Low Density, Commercial, Agriculture, etc.
+
+LotFrontage: Linear feet of street connected to the property.
+
+LotArea: Lot size in square feet.
+
+Street: Type of road access to property.
+
+Examples: Gravel, Paved.
+
+Alley: Type of alley access to property.
+
+Examples: Gravel, Paved, None.
+
+... (Details for all 79 variables available in the full dataset).
 ## Data Definition:
 
 Input variables:
