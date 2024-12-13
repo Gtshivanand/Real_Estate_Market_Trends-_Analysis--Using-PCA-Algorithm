@@ -540,19 +540,34 @@ Input variables:
        Partial   Home was not completed when last assessed (associated with New Homes)
 
 # Content
+  
   1.Import Packages
+  
   2.Read Data
+  
   3. Understand and Prepare the Data
-    3.1 - Data Types and Dimensions
-    3.2 - Feature Engineering
-    3.3 - Missing Data Treatment
+
+     3.1 - Data Types and Dimensions
+
+     3.2 - Feature Engineering
+
+     3.3 - Missing Data Treatment
+  
   4. Compute Principal Component (from scratch)
-    4.1 - Prepare the Data
-    4.2 - Scale the Data
-    4.3 - Covariance Matrix
-    4.4 - Compute Eigenvalues and Eigenvectors
-    4.5 - Decide Number of Principal Components
-    4.6 - Calculate Principal Components
+
+     4.1 - Prepare the Data
+
+     4.2 - Scale the Data
+
+     4.3 - Covariance Matrix
+
+     4.4 - Compute Eigenvalues and Eigenvectors
+
+     4.5 - Decide Number of Principal Components
+
+     4.6 - Calculate Principal Components
+ 
  5. Compute Principal Component (using sklearn)
+ 
  6. Conclusion
 
