@@ -1,4 +1,4 @@
-# Real-Estate-Data-Analysis-using-PCA
+# Real_Estate_Market_Trends _Analysis- Using PCA Algorithm
 This project demonstrates the use of Principal Component Analysis (PCA) to analyze and reduce the dimensionality of real estate data. By reducing 35 numerical features to 5 principal components, the project retains most of the variance while simplifying the data for better insights and predictive modeling.
 
 # Abstract:
