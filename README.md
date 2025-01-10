@@ -94,9 +94,21 @@ The dataset is loaded and inspected to understand its structure and key attribut
 
 	Using PCA, the 35 numerical variables were successfully reduced to 5 principal components. These components explain most of the variance in the dataset while minimizing information loss. This dimensionality reduction improves computational efficiency and aids in better prediction and analysis.
 
-## Contact
+# Feedback and Suggestions:
 
-For any inquiries or suggestions, feel free to reach out:
+Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
 
-- **Email:** [shivanandnashi97@gmail.com](mailto:shivanandnashi97@gmail.com)
-- **LinkedIn:** [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
+
+ LinkedIn: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+ 
+ Email: shivanandnashi97@gmail.com
+
+
+Looking forward to connecting and exchanging ideas!
+
+# ✨ Support this project!
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+Your support helps keep the project active and encourages further development.
+
+Thank you for your support! 💖
